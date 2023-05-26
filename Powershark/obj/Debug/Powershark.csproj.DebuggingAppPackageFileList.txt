@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\PowersharkManifest.xml
+D:\Project\Powershark Calender\Powershark\Powershark\bin\Debug\Powershark.debugapp

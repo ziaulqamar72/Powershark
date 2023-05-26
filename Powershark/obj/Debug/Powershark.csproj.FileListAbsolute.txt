@@ -1,0 +1,2 @@
+D:\Project\Powershark Calender\Powershark\Powershark\obj\Debug\Powershark.csproj.AssemblyReference.cache
+D:\Project\Powershark Calender\Powershark\Powershark\obj\Debug\Powershark.csproj.CoreCompileInputs.cache
